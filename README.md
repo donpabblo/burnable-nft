@@ -1,4 +1,4 @@
-This is an example ERC721 contract with burn feature for NFTs showed in [How to burn an NFT](https://medium.com/@donpablooooo/how-to-burn-an-nft-c306c9cb6df)
+This is an example ERC721 contract with burn feature for NFTs showed in [How to burn an NFT](https://betterprogramming.pub/how-to-burn-an-nft-c306c9cb6df).
 
 
 # Install
